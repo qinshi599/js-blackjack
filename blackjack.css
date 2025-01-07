@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color:floralwhite;
+}
+
+h1 {
+    color: gold;
+    font-size: 3.5em;
+}
+
+button {
+    background-color: gold;
+    color: white;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 1.5em;
+}
